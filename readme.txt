@@ -1,3 +1,2 @@
-Potion in CSS and HTML
+Magic Potion in CSS using Animate
 **********
-Poção com animação em CSS e HTML
