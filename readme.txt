@@ -1,5 +1,3 @@
-Potion in CSS
+Potion in CSS and HTML
 **********
-Potion moving sideways, w/ shadow movement CSS Animate
-
-https://marcuscaiado.github.io/potion/
+Poção com animação em CSS e HTML
