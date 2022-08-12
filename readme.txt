@@ -2,4 +2,4 @@ Magic Potion in CSS using Animate
 **********
 Potion moving sideways, with shadow movement
 
-marcuscaiado.github.io/potion/
+http://marcuscaiado.github.io/potion/
